@@ -9,10 +9,10 @@ Starter code for demonstrating abilities of Chart.js. Made for a presentation du
 
 ## How to use
 ### Chart Selection
-At the top, you can select different charts to see examples of a Line, Bar, Pie, and Doughnut chart.
+At the top, you can select different charts to see and example of a Line, Bar, Pie, or Doughnut chart.
 
 ### Data Control Mode
-To enable data control, click the switch below the chart. In the Data Control Mode, you can move the sliders to modify the data for the different chart. The data of the Line and Bar charts is common, whereas the Pie and Doughnut charts share data.
+To enable data control, click the switch below the chart. In the Data Control Mode, you can move the sliders to modify the data for the different charts. The data of the Line and Bar charts share the same data, whereas the Pie and Doughnut charts share data.
 
 ## Sources
 - Chart.js Docs (https://www.chartjs.org/docs/latest/)
